@@ -1,0 +1,32 @@
+{
+  "name": "uspectrum-heatmap",
+  "version": "1.0.0",
+  "description": "Heat map spectrum analyzer for WebAudio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard-focus"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codealchemist/uspectrum-heatmap.git"
+  },
+  "keywords": [
+    "spectrum",
+    "analyzer",
+    "heatmap",
+    "heat",
+    "map",
+    "uspectrum",
+    "uplayer"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codealchemist/uspectrum-heatmap/issues"
+  },
+  "homepage": "https://github.com/codealchemist/uspectrum-heatmap#readme",
+  "dependencies": {
+    "chroma-js": "^1.4.1",
+    "standard-focus": "^1.1.2"
+  }
+}
