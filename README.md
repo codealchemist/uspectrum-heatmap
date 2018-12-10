@@ -2,6 +2,8 @@
 
 Heat map spectrum analyzer for WebAudio.
 
+![screenshot](https://cldup.com/DYfZ4sLeew.gif)
+
 ## Install
 
 `npm i uspectrum-heatmap`
